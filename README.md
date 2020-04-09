@@ -48,13 +48,13 @@ Delhi nagpur  pune  Chennai  310
 
 Example; 2
 7
-vizag  nagpur  50
-nagpur pune 44
-hydrabad nagpur 72
-delhi  vizag 76  
-hydrabad  chennai  44
-Pune vizag 60
-nagpur  hydrabad  92
+vizag  nagpur  50.
+nagpur pune 44.
+hydrabad nagpur 72.
+delhi  vizag 76.  
+hydrabad  chennai  44.
+Pune vizag 60.
+nagpur  hydrabad  92.
 
 Output
 Enter the no of routes 7
