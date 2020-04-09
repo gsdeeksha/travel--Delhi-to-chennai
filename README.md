@@ -16,61 +16,12 @@ Your goal is to
 
 
 For example
-Input format 
- 6    // the number of routes as input.
-  
-pune  chennai  190  //These are the possible routes.
-delhi  hydrabad  55
-nagpur  pune  70
-delhi  nagpur  50
-Pune  nagpur  85
-hydrabad  nagpur  80
-
- 
- 
-And the ouput is :
- 
-Enter the no of routes 6
-enter the details
-pune  chennai  190
-delhi  hydrabad  55
-nagpur  pune  70
-delhi  nagpur  50
-Pune  nagpur  85
-hydrabad  nagpur  80
-
-The route
-
-Delhi hydrabad  nagpur  pune  Chennai  395
-
-Delhi nagpur  pune  Chennai  310
 
 
-Example; 2
-7
-vizag  nagpur  50.
-nagpur pune 44.
-hydrabad nagpur 72.
-delhi  vizag 76.  
-hydrabad  chennai  44.
-Pune vizag 60.
-nagpur  hydrabad  92.
-
-Output
-Enter the no of routes 7
-enter the details
-vizag  nagpur  50
-nagpur pune 44
-hydrabad nagpur 72
-delhi  vizag 76
-hydrabad  chennai  44
-Pune vizag 60
-nagpur  hydrabad  92
 
 
- Not reachable
 
-
+![image](https://user-images.githubusercontent.com/51811441/78871347-305e6680-7a65-11ea-8c97-8646720f9bd1.png)
 
 
 
