@@ -4,14 +4,6 @@ Your goal is to
 1. Opt for the journey that is the least expensive
     i.e. specify the route eg : Delhi>Nagpur>Hyedrabad>Chennai. 
 2. Arrange all the possible routes with costs in non decreasing order.
-     Eg:
-         Delhi  Chennai  40 
-         Delhi  pune  Chennai  60  
-         Delhi  nagpur  Chennai  80 
-         Delhi  pune  vizag  Chennai  80
-         Delhi  vizag  Chennai  120 
-         Delhi  nagpur  vizag  pune Chennai  140 
-
 3.  In case if none of the given routes reach the destination then print “ not reachable ”
 
 
